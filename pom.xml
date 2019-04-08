@@ -152,8 +152,8 @@
                     <configuration>
                         <!-- App information -->
                         <resourceGroup>GOF</resourceGroup>
-                        <appName>gof</appName>
-                        <region>Central-US</region>
+                        <appName>gof.azurewebsites.net</appName>
+                        <region>centralus</region>
    
                         <!-- Java Runtime Stack for App on Linux-->
                         <linuxRuntime>tomcat 8.5-jre8</linuxRuntime> 
